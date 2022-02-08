@@ -84,6 +84,14 @@ guoyanjun:
     image: img/people/yanjunguo.jpg
     email: "yanjunguo@163.com"
     
+wangyifan:
+    display_name: "YiFan Wang"
+    webpage: "https://github.com/yfwang0216"
+    bio: Masters Student, School of Computer Engineer and Science
+    role:  masters
+    image: img/people/wangyifan.jpg
+    email: "wangyifan0216@shu.edu.cn"
+    
 # =======
     
 # >>>>>>> main
